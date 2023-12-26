@@ -1,0 +1,177 @@
+ [
+    {
+      "id": 1,
+      "chefName": "Rahim Ahmed",
+      "picture": "rahim_ahmed.jpg",
+      "yearsOfExperience": 15,
+      "shortBio": "Passionate about traditional Bengali recipes and flavors.",
+      "likes": 3500,
+      "numberOfRecipes": 10,
+      "recipes": [
+        {
+            "recipeName": "Biryani",
+            "ingredients": ["Rice", "Chicken", "Spices", "Potato", "Onion"],
+            "cookingMethod": "Cook rice and chicken separately, then layer them with spices and cook together.",
+            "rating": 4.8
+          },
+          {
+            "recipeName": "Hilsha Curry",
+            "ingredients": ["Hilsha fish", "Mustard paste", "Turmeric", "Chili", "Oil"],
+            "cookingMethod": "Marinate fish, cook with mustard paste, turmeric, and chili.",
+            "rating": 4.9
+          },
+          {
+            "recipeName": "Pitha",
+            "ingredients": ["Rice flour", "Coconut", "Jaggery", "Sesame seeds", "Milk"],
+            "cookingMethod": "Make dough, fill with coconut & jaggery, shape, and cook.",
+            "rating": 4.7
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "chefName": "Sara Khan",
+      "picture": "sara_khan.jpg",
+      "yearsOfExperience": 12,
+      "shortBio": "Specializes in fusion dishes combining Bangladeshi and international flavors.",
+      "likes": 2800,
+      "numberOfRecipes": 8,
+      "recipes": [
+        {
+            "recipeName": "Chitol Maach Bhapa",
+            "ingredients": ["Chitol fish", "Mustard paste", "Green chilies", "Coconut", "Spices"],
+            "cookingMethod": "Marinate fish, steam with mustard paste, spices, and coconut.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Fuchka",
+            "ingredients": ["Semolina", "Potato", "Tamarind", "Chickpeas", "Spices"],
+            "cookingMethod": "Prepare dough, fry it, fill with mashed potatoes, chickpeas, and spices.",
+            "rating": 4.7
+          },
+          {
+            "recipeName": "Korma",
+            "ingredients": ["Meat", "Yogurt", "Onion", "Cashew paste", "Spices"],
+            "cookingMethod": "Cook meat with yogurt, onion, cashew paste, and spices.",
+            "rating": 4.6
+          }
+      ]
+    },
+    {
+      "id": 3,
+      "chefName": "Imran Ali",
+      "picture": "imran_ali.jpg",
+      "yearsOfExperience": 18,
+      "shortBio": "A chef dedicated to reviving forgotten traditional recipes from rural Bangladesh.",
+      "likes": 4200,
+      "numberOfRecipes": 12,
+      "recipes": [
+        {
+            "recipeName": "Panta Bhat",
+            "ingredients": ["Leftover rice", "Water", "Onion", "Green chilies", "Salt"],
+            "cookingMethod": "Soak leftover rice in water overnight, serve with chopped onion, green chilies, and salt.",
+            "rating": 4.6
+          },
+          {
+            "recipeName": "Chitol Maacher Muitha",
+            "ingredients": ["Chitol fish", "Bengal gram", "Onion", "Ginger", "Spices"],
+            "cookingMethod": "Boil fish, mash it, mix with Bengal gram and spices, shape into balls, and cook.",
+            "rating": 4.9
+          },
+          {
+            "recipeName": "Patishapta Pitha",
+            "ingredients": ["Rice flour", "Coconut", "Jaggery", "Khoya", "Cardamom"],
+            "cookingMethod": "Make thin crepes with rice flour, fill with coconut, jaggery, khoya, and cardamom mixture, roll and cook.",
+            "rating": 4.7
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "chefName": "Farida Rahman",
+      "picture": "farida_rahman.jpg",
+      "yearsOfExperience": 10,
+      "shortBio": "An advocate for healthy Bangladeshi cuisine with a modern twist.",
+      "likes": 3200,
+      "numberOfRecipes": 7,
+      "recipes": [
+        {
+            "recipeName": "Quinoa Khichuri",
+            "ingredients": ["Quinoa", "Lentils", "Mixed vegetables", "Spices", "Ghee"],
+            "cookingMethod": "Cook quinoa, lentils, and vegetables together with spices and a touch of ghee.",
+            "rating": 4.6
+          },
+          {
+            "recipeName": "Grilled Mustard Chicken",
+            "ingredients": ["Chicken breasts", "Mustard paste", "Yogurt", "Spices", "Lemon"],
+            "cookingMethod": "Marinate chicken in mustard paste, yogurt, spices, and lemon, then grill until cooked.",
+            "rating": 4.9
+          },
+          {
+            "recipeName": "Vegetable Jalfrezi",
+            "ingredients": ["Assorted vegetables", "Onion", "Tomato", "Spices", "Oil"],
+            "cookingMethod": "Stir-fry vegetables with onions, tomatoes, and spices until tender.",
+            "rating": 4.7
+          }
+      ]
+    },
+    {
+      "id": 5,
+      "chefName": "Kamal Hasan",
+      "picture": "kamal_hasan.jpg",
+      "yearsOfExperience": 20,
+      "shortBio": "Bringing innovation to traditional dishes without compromising authenticity.",
+      "likes": 5000,
+      "numberOfRecipes": 15,
+      "recipes": [
+        {
+            "recipeName": "Dhakai Biryani",
+            "ingredients": ["Basmati rice", "Meat (chicken/mutton)", "Potato", "Spices", "Ghee"],
+            "cookingMethod": "Layer rice and meat with spices, cook in layers with potatoes and ghee.",
+            "rating": 4.8
+          },
+          {
+            "recipeName": "Shahi Tukra",
+            "ingredients": ["Bread slices", "Milk", "Sugar", "Saffron", "Pistachios"],
+            "cookingMethod": "Fry bread, soak in sweetened milk, garnish with saffron and pistachios.",
+            "rating": 4.9
+          },
+          {
+            "recipeName": "Kala Bhuna",
+            "ingredients": ["Beef", "Onion", "Garlic paste", "Chili", "Spices"],
+            "cookingMethod": "Slow-cook beef with spices, onion, garlic paste, and chili until tender.",
+            "rating": 4.7
+          }
+      ]
+    },
+    {
+      "id": 6,
+      "chefName": "Ayesha Ahmed",
+      "picture": "ayesha_ahmed.jpg",
+      "yearsOfExperience": 14,
+      "shortBio": "Specializing in vegetarian adaptations of classic Bangladeshi recipes.",
+      "likes": 3800,
+      "numberOfRecipes": 9,
+      "recipes": [
+        {
+            "recipeName": "Shukto",
+            "ingredients": ["Bitter gourd", "Eggplant", "Drumsticks", "Potato", "Mustard paste"],
+            "cookingMethod": "Prepare a mix of vegetables, cook with mustard paste, and spices.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Pui Shaak",
+            "ingredients": ["Pui shaak (Malabar spinach)", "Coconut", "Green chilies", "Mustard oil", "Turmeric"],
+            "cookingMethod": "Cook spinach with coconut, green chilies, mustard oil, and turmeric.",
+            "rating": 4.8
+          },
+          {
+            "recipeName": "Mishti Doi",
+            "ingredients": ["Milk", "Sugar", "Yogurt culture"],
+            "cookingMethod": "Boil milk, add sugar, cool it down, add yogurt culture, and ferment to make sweetened yogurt.",
+            "rating": 4.7
+          }
+      ]
+    }
+  ]
+  
