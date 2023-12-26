@@ -2,7 +2,7 @@
     {
       "_id": "1",
       "chefName": "Rahim Ahmed",
-      "picture": "rahim_ahmed.jpg",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1380&t=st=1703604688~exp=1703605288~hmac=809689058eb44b76691b5ad4183e0bcb4558cedea00795bf875a18d36ad8ad38",
       "yearsOfExperience": 15,
       "shortBio": "Passionate about traditional Bengali recipes and flavors.",
       "likes": 3500,
@@ -31,7 +31,7 @@
     {
       "_id": "2",
       "chefName": "Sara Khan",
-      "picture": "sara_khan.jpg",
+      "picture": "https://img.freepik.com/free-photo/front-view-young-beautiful-lady-light-blue-shirt-colorful-cape-holding-yellow-cake-pans-happy-smiling-expression_140725-15161.jpg?w=1380&t=st=1703605629~exp=1703606229~hmac=6f385ff9e86950fb0020c7c3aee6f2d699cb45bd8016cb95ba0671579b4c4627",
       "yearsOfExperience": 12,
       "shortBio": "Specializes in fusion dishes combining Bangladeshi and international flavors.",
       "likes": 2800,
@@ -60,7 +60,7 @@
     {
       "_id": "3",
       "chefName": "Imran Ali",
-      "picture": "imran_ali.jpg",
+      "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-doing-ok-sign-isolated-pink-wall_141793-101054.jpg?w=1380&t=st=1703605709~exp=1703606309~hmac=846b23bbb929b2d9a288b56cd76e58188daafd8b32f5e1eb87cd3e7bcd6989a1",
       "yearsOfExperience": 18,
       "shortBio": "A chef dedicated to reviving forgotten traditional recipes from rural Bangladesh.",
       "likes": 4200,
@@ -89,7 +89,7 @@
     {
       "_id": "4",
       "chefName": "Farida Rahman",
-      "picture": "farida_rahman.jpg",
+      "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-stands-front-white-wall-crosses-arms-isolated-orange-wall-with-copy-space_141793-33228.jpg?w=1060&t=st=1703605527~exp=1703606127~hmac=0a3948df7ccda6958d85c238a8b92e9106c04eb4ca59f2d554099f7e1281f3cd",
       "yearsOfExperience": 10,
       "shortBio": "An advocate for healthy Bangladeshi cuisine with a modern twist.",
       "likes": 3200,
@@ -118,7 +118,7 @@
     {
       "_id": "5",
       "chefName": "Kamal Hasan",
-      "picture": "kamal_hasan.jpg",
+      "picture": "https://img.freepik.com/free-photo/chef-cutting-green-cucumber-his-kitchen_155003-496.jpg?w=1380&t=st=1703604109~exp=1703604709~hmac=cdb36a3fbdf714fe289005b50566f754ac30138f894e6a46384e2b46f232cb0c",
       "yearsOfExperience": 20,
       "shortBio": "Bringing innovation to traditional dishes without compromising authenticity.",
       "likes": 5000,
@@ -147,7 +147,7 @@
     {
       "_id": "6",
       "chefName": "Ayesha Ahmed",
-      "picture": "ayesha_ahmed.jpg",
+      "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-arms-looks-camera-isolated-violet-wall-with-copy-space_141793-33151.jpg?w=1060&t=st=1703605467~exp=1703606067~hmac=790cc462e6e6e2e93257e00ee9029f68e96f7768600a05d9cda4e3df94198804",
       "yearsOfExperience": 14,
       "shortBio": "Specializing in vegetarian adaptations of classic Bangladeshi recipes.",
       "likes": 3800,
