@@ -9,20 +9,23 @@
       "numberOfRecipes": 10,
       "recipes": [
         {
-            "recipeName": "Biryani",
-            "ingredients": ["Rice", "Chicken", "Spices", "Potato", "Onion"],
+          "recipeName": "Biryani",
+          "image":"https://img.freepik.com/free-photo/chicken-breast-tomato-sauce-rice-risotto-plov-with-herbs-yogurt-sumakh-white-plate_114579-213.jpg?w=1060&t=st=1703646710~exp=1703647310~hmac=557d126ddcfec6bb7b90f25d910995583ba9f6b7e8a5a978478886433b19299a",
+          "ingredients": ["Rice,", "Chicken,", "Spices,", "Potato,", "Onion."],
             "cookingMethod": "Cook rice and chicken separately, then layer them with spices and cook together.",
             "rating": 4.8
           },
           {
             "recipeName": "Hilsha Curry",
-            "ingredients": ["Hilsha fish", "Mustard paste", "Turmeric", "Chili", "Oil"],
+            "image":"https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2014.jpg?w=740",
+            "ingredients": ["Hilsha fish,", "Mustard paste,", "Turmeric,", "Chili,", "Oil."],
             "cookingMethod": "Marinate fish, cook with mustard paste, turmeric, and chili.",
             "rating": 4.9
           },
           {
             "recipeName": "Pitha",
-            "ingredients": ["Rice flour", "Coconut", "Jaggery", "Sesame seeds", "Milk"],
+            "image":"https://img.freepik.com/premium-psd/bengali-sweet-patishapta-pitha-isolated-rendering_113590-1904.jpg?w=1380",         
+            "ingredients": ["Rice flour,", "Coconut,", "Jaggery,", "Sesame seeds,", "Milk."],
             "cookingMethod": "Make dough, fill with coconut & jaggery, shape, and cook.",
             "rating": 4.7
           }
@@ -39,19 +42,22 @@
       "recipes": [
         {
             "recipeName": "Chitol Maach Bhapa",
-            "ingredients": ["Chitol fish", "Mustard paste", "Green chilies", "Coconut", "Spices"],
+            "image":"https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=1380&t=st=1703610812~exp=1703611412~hmac=b33640c58056ed354f716e7f6b26e3d3ba4e26a56978d8de0c11a0d675cbdbf2",
+            "ingredients": ["Chitol fish,", "Mustard paste,", "Green chilies,", "Coconut,", "Spices."],
             "cookingMethod": "Marinate fish, steam with mustard paste, spices, and coconut.",
             "rating": 4.5
           },
           {
             "recipeName": "Fuchka",
-            "ingredients": ["Semolina", "Potato", "Tamarind", "Chickpeas", "Spices"],
+            "image":"https://img.freepik.com/premium-photo/sev-puri_57665-9445.jpg?w=1380",
+            "ingredients": ["Semolina,", "Potato,", "Tamarind,", "Chickpeas,", "Spices."],
             "cookingMethod": "Prepare dough, fry it, fill with mashed potatoes, chickpeas, and spices.",
             "rating": 4.7
           },
           {
             "recipeName": "Korma",
-            "ingredients": ["Meat", "Yogurt", "Onion", "Cashew paste", "Spices"],
+            "image":"https://img.freepik.com/free-photo/chicken-breast-tomato-sauce-rice-risotto-plov-with-herbs-yogurt-sumakh-white-plate_114579-213.jpg?w=1060&t=st=1703646710~exp=1703647310~hmac=557d126ddcfec6bb7b90f25d910995583ba9f6b7e8a5a978478886433b19299a",
+            "ingredients": ["Meat,", "Yogurt,", "Onion,", "Cashew paste,", "Spices."],
             "cookingMethod": "Cook meat with yogurt, onion, cashew paste, and spices.",
             "rating": 4.6
           }
@@ -68,19 +74,22 @@
       "recipes": [
         {
             "recipeName": "Panta Bhat",
-            "ingredients": ["Leftover rice", "Water", "Onion", "Green chilies", "Salt"],
+            "image":"https://img.freepik.com/premium-psd/fresh-cooked-white-basmati-rice-white-bowl-with-transparent-background_812337-296.jpg?w=826 ",
+            "ingredients": ["Leftover rice,", "Water,", "Onion,", "Green chilies,", "Salt."],
             "cookingMethod": "Soak leftover rice in water overnight, serve with chopped onion, green chilies, and salt.",
             "rating": 4.6
           },
           {
             "recipeName": "Chitol Maacher Muitha",
-            "ingredients": ["Chitol fish", "Bengal gram", "Onion", "Ginger", "Spices"],
+            "image":"https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=1380&t=st=1703610812~exp=1703611412~hmac=b33640c58056ed354f716e7f6b26e3d3ba4e26a56978d8de0c11a0d675cbdbf2 ",
+            "ingredients": ["Chitol fish,", "Bengal gram,", "Onion,", "Ginger,", "Spices."],
             "cookingMethod": "Boil fish, mash it, mix with Bengal gram and spices, shape into balls, and cook.",
             "rating": 4.9
           },
           {
             "recipeName": "Patishapta Pitha",
-            "ingredients": ["Rice flour", "Coconut", "Jaggery", "Khoya", "Cardamom"],
+            "image":"https://img.freepik.com/premium-psd/bengali-sweet-patishapta-pitha-isolated-rendering_113590-1904.jpg?w=1380 ",
+            "ingredients": ["Rice flour,", "Coconut,", "Jaggery,", "Khoya,", "Cardamom."],
             "cookingMethod": "Make thin crepes with rice flour, fill with coconut, jaggery, khoya, and cardamom mixture, roll and cook.",
             "rating": 4.7
           }
@@ -97,19 +106,22 @@
       "recipes": [
         {
             "recipeName": "Quinoa Khichuri",
-            "ingredients": ["Quinoa", "Lentils", "Mixed vegetables", "Spices", "Ghee"],
+            "image":"https://img.freepik.com/premium-photo/sev-puri_57665-9445.jpg?w=1380",
+            "ingredients": ["Quinoa,", "Lentils,", "Mixed vegetables,", "Spices,", "Ghee."],
             "cookingMethod": "Cook quinoa, lentils, and vegetables together with spices and a touch of ghee.",
             "rating": 4.6
           },
           {
             "recipeName": "Grilled Mustard Chicken",
-            "ingredients": ["Chicken breasts", "Mustard paste", "Yogurt", "Spices", "Lemon"],
+            "image":"https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=1380&t=st=1703647163~exp=1703647763~hmac=166979cdd758c1ce05ea7e6e64995ca24cca08807cd37b241af05ccd7b54b893 ",
+            "ingredients": ["Chicken breasts,", "Mustard paste,", "Yogurt,", "Spices,", "Lemon."],
             "cookingMethod": "Marinate chicken in mustard paste, yogurt, spices, and lemon, then grill until cooked.",
             "rating": 4.9
           },
           {
             "recipeName": "Vegetable Jalfrezi",
-            "ingredients": ["Assorted vegetables", "Onion", "Tomato", "Spices", "Oil"],
+            "image":"https://img.freepik.com/premium-photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-beans-baby-corn-capsicum-paneer-cottage-cheese-with-traditional-masala-curry_466689-36239.jpg?w=740 ",
+            "ingredients": ["Assorted vegetables,", "Onion,", "Tomato,", "Spices,", "Oil."],
             "cookingMethod": "Stir-fry vegetables with onions, tomatoes, and spices until tender.",
             "rating": 4.7
           }
@@ -126,19 +138,22 @@
       "recipes": [
         {
             "recipeName": "Dhakai Biryani",
-            "ingredients": ["Basmati rice", "Meat (chicken/mutton)", "Potato", "Spices", "Ghee"],
+            "image":"https://img.freepik.com/free-photo/chicken-breast-tomato-sauce-rice-risotto-plov-with-herbs-yogurt-sumakh-white-plate_114579-213.jpg?w=1060&t=st=1703646710~exp=1703647310~hmac=557d126ddcfec6bb7b90f25d910995583ba9f6b7e8a5a978478886433b19299a ",
+            "ingredients": ["Basmati rice,", "Meat (chicken/mutton),", "Potato,", "Spices,", "Ghee."],
             "cookingMethod": "Layer rice and meat with spices, cook in layers with potatoes and ghee.",
             "rating": 4.8
           },
           {
             "recipeName": "Shahi Tukra",
-            "ingredients": ["Bread slices", "Milk", "Sugar", "Saffron", "Pistachios"],
+            "image":"https://img.freepik.com/premium-photo/sev-puri_57665-9445.jpg?w=1380",
+            "ingredients": ["Bread slices,", "Milk,", "Sugar,", "Saffron,", "Pistachios."],
             "cookingMethod": "Fry bread, soak in sweetened milk, garnish with saffron and pistachios.",
             "rating": 4.9
           },
           {
             "recipeName": "Kala Bhuna",
-            "ingredients": ["Beef", "Onion", "Garlic paste", "Chili", "Spices"],
+            "image":"https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=1380&t=st=1703647163~exp=1703647763~hmac=166979cdd758c1ce05ea7e6e64995ca24cca08807cd37b241af05ccd7b54b893 ",
+            "ingredients": ["Beef,", "Onion,", "Garlic paste,", "Chili,", "Spices."],
             "cookingMethod": "Slow-cook beef with spices, onion, garlic paste, and chili until tender.",
             "rating": 4.7
           }
@@ -155,19 +170,22 @@
       "recipes": [
         {
             "recipeName": "Shukto",
-            "ingredients": ["Bitter gourd", "Eggplant", "Drumsticks", "Potato", "Mustard paste"],
+            "image":"https://img.freepik.com/premium-photo/loitta-shutki-bhuna-loitka-sutki-bhuna-korma-karahi-served-dish-isolated-background-top-view-bangladesh-food_689047-5504.jpg?w=1380",
+            "ingredients": ["Bitter gourd,", "Eggplant,", "Drumsticks,", "Potato,", "Mustard paste."],
             "cookingMethod": "Prepare a mix of vegetables, cook with mustard paste, and spices.",
             "rating": 4.5
           },
           {
             "recipeName": "Pui Shaak",
-            "ingredients": ["Pui shaak (Malabar spinach)", "Coconut", "Green chilies", "Mustard oil", "Turmeric"],
+            "image":"https://img.freepik.com/premium-photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-beans-baby-corn-capsicum-paneer-cottage-cheese-with-traditional-masala-curry_466689-36239.jpg?w=740 ",
+            "ingredients": ["Pui shaak (Malabar spinach),", "Coconut,", "Green chilies,", "Mustard oil,", "Turmeric."],
             "cookingMethod": "Cook spinach with coconut, green chilies, mustard oil, and turmeric.",
             "rating": 4.8
           },
           {
             "recipeName": "Mishti Doi",
-            "ingredients": ["Milk", "Sugar", "Yogurt culture"],
+            "image":"https://img.freepik.com/free-photo/flat-lay-indian-dessert-arrangement_23-2149312332.jpg?w=740&t=st=1703647612~exp=1703648212~hmac=2e46e9924fb961ea9570f40f7729e54c373397cf3ed2a52e4e7fa9d8076c26a5",
+            "ingredients": ["Milk,", "Sugar,", "Yogurt culture."],
             "cookingMethod": "Boil milk, add sugar, cool it down, add yogurt culture, and ferment to make sweetened yogurt.",
             "rating": 4.7
           }
