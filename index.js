@@ -6,12 +6,7 @@ const port = process.env.PORT || 5000;
 
 const chefsData =require('./data/chefData.json');
 
-app.use((req, res, next) => {
-    res.setHeader("Access-Control-Allow-Origin", "https://example.com");
-    res.setHeader("Access-Control-Allow-Methods", "POST, GET, PUT");
-    res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-    next();
-  })
+app.use(cors());
 
 
 app.get('/', (req, res)=>{
